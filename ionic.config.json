@@ -1,0 +1,7 @@
+{
+  "name": "jiemar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
